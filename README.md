@@ -1,16 +1,16 @@
-## Hi there 👋
+# HI GUYS🥴🙋🏿‍♂️.
+<!-- profile gif -->
+## DATA ARCHITECT/SOFTWARE ENGINEER/BROTHER.
+</p>
+ <!-- Name and Location -->
+<h1 align="center">Adams omondI.</h1>
+<h3 align="center">Research data science and student.</h3>
+<h4 align="center">📍 nairobi kenya.</h4>
+</p>
 
-<!--
-**Adamsomondi/Adamsomondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+<!-- about me --!>
+<p>🏠Embracing the places that welcomes me.
+Being very intentional with the solutions i build🤖.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

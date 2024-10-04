@@ -1,4 +1,4 @@
-# 🥴🙋🏿‍♂️.
+# 🥴🙋🏿‍♂️
 <!-- profile gif -->
 ## COMPUTE AND DISTRIBUTION✨
 </p>

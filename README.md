@@ -1,6 +1,6 @@
-# HI GUYS🥴🙋🏿‍♂️.
+# 🥴🙋🏿‍♂️.
 <!-- profile gif -->
-## DATA ARCHITECT/SOFTWARE ENGINEER/BROTHER.
+## I DEFINE MYSELF AS A DATA ENGINEER/SOFTWARE ENGINEER/BROTHER
 </p>
  <!-- Name and Location -->
 <h1 align="center">Adams omondI.</h1>

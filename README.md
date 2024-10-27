@@ -1,6 +1,6 @@
 # 🙋🏿‍♂️BUENOS NOCHES
 <p>
-<h2 align="center">software Engineering/Data Engineer.</h3>
+<h2 align="center">Software Engineering/Data Engineer.</h3>
 </p>
 
 ## About Me
